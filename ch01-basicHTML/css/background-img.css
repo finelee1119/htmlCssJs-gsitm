@@ -1,0 +1,9 @@
+.container{
+  width: 100px;
+  height: 150px;
+  background-color: royalblue;
+  background-image: url("../images/잠만보.png");
+  background-size: 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+}

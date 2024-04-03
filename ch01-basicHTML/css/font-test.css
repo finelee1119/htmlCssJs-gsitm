@@ -1,0 +1,9 @@
+.container {
+  font-size: 22px;
+  color: blue;
+  font-family: sans-serif;
+  line-height: 1.4;
+  text-align: center;
+  text-decoration: underline;
+  word-break: keep-all;
+}
